@@ -58,7 +58,6 @@ namespace UnitTests
         {
            Conus box = new Conus(2,3);
            Console.WriteLine(box.GetVolume());
-           Console.WriteLine(box.GetVolume());
            Console.ReadLine();
         }
     }
